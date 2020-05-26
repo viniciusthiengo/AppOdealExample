@@ -8,7 +8,7 @@ Empresa de anúncios mobile que promete a maior rentabilidade possível em um ap
 
 <img src="https://www.thiengo.com.br/img/post/normal/nmjj5qkscn3kb70i0nbglckbs3974c1e2317cdb70754a9b28481f757a7.jpg" width="700" alt="Fluxo de funcionamento dos banners mobile AppOdeal">
 
-O conteúdo do artigo também está disponível em vídeo (logo ao final do artigo).
+O conteúdo do artigo também está disponível em [vídeo](https://www.thiengo.com.br/monetizacao-eficiente-no-android-com-appodeal#title-04).
 
 ### AndroidX
 
